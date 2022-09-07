@@ -993,7 +993,7 @@
 														<label class="form-check-label" for="customCheckBox2"></label>
 													</div>
 												</td>
-                                                <td><strong>542</strong></td>
+                                                <td><strong>5</strong></td>
                                                 <td><div class="d-flex align-items-center"><img src="images/avatar/1.jpg" class="rounded-lg me-2" width="24" alt=""/> <span class="w-space-no">Dr. Jackson</span></div></td>
                                          
                                                  <td>
